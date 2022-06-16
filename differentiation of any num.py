@@ -1,3 +1,4 @@
+print('kumari')
 #checking
 d=input('enter the differentiate num:')
 f=1
