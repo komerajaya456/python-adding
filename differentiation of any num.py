@@ -1,3 +1,4 @@
+print('kuuu')
 print('ku')
 print('kumari')
 #checking
