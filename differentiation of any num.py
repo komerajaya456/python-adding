@@ -1,3 +1,4 @@
+#checking
 d=input()
 f=1
 a=1
