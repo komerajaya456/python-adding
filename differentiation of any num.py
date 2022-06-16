@@ -1,5 +1,5 @@
 #checking
-d=input()
+d=input('enter the differentiate num:')
 f=1
 a=1
 g=[]
@@ -46,6 +46,8 @@ while True:
 	if YES press ENTER
 	if NO press SPACEBAR''')=='': 
 		print('\n\nDifferentiation of (',r,'(',t,')^',p,'  =',  r)
+		print('komera')
+		print('komera2')
 		a=a
 		p=p*0
 		break
